@@ -1,0 +1,19 @@
+# How many tiles do i need
+
+> Calculate rectangular floor area, add a visible waste allowance and round to whole tiles and boxes. See how carton rounding changes the purchase quantity.
+
+## Calculator
+- [Open the calculator](https://howmanytilesdoineed.com/): A 4 × 3 m room with 30 × 30 cm tiles and 10% waste needs 147 tiles. Ten-tile boxes require 15 boxes, supplying 150 tiles.
+
+## Method
+Divide room length times width by tile length times width, with all areas expressed in the same units. Multiply by one plus your waste percentage and round up to whole tiles. Divide by tiles per carton and round up again to whole cartons.
+
+## Limits
+This is an area estimate, not a tile cutting layout. Diagonal patterns, grout joints, broken tiles, niches and small edge cuts affect waste. Choose the allowance for your layout and confirm carton coverage and tile dimensions with the supplier.
+
+## Supporting pages
+- [Method and assumptions](https://howmanytilesdoineed.com/method/)
+- [About, editorial responsibility and privacy](https://howmanytilesdoineed.com/about/)
+
+## Sources
+- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)

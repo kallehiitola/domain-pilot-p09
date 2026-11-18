@@ -1,4 +1,4 @@
-# How many tiles do i need
+# How many tiles do I need?
 
 > Calculate rectangular floor area, add a visible waste allowance and round to whole tiles and boxes. See how carton rounding changes the purchase quantity.
 
@@ -6,7 +6,7 @@
 - [Open the calculator](https://howmanytilesdoineed.com/): A 4 × 3 m room with 30 × 30 cm tiles and 10% waste needs 147 tiles. Ten-tile boxes require 15 boxes, supplying 150 tiles.
 
 ## Guide
-- [How to how many tiles do i need](https://howmanytilesdoineed.com/guide/): measurement inputs, formula, assumptions, limits and a worked example.
+- [How to work out how many tiles you need](https://howmanytilesdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
 
 ## Method
 Divide room length times width by tile length times width, with all areas expressed in the same units. Multiply by one plus your waste percentage and round up to whole tiles. Divide by tiles per carton and round up again to whole cartons.
@@ -20,6 +20,17 @@ This is an area estimate, not a tile cutting layout. Diagonal patterns, grout jo
 
 ## Sources
 - [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+
+## Step by step
+1. Measure the length and width of the floor, or the width and height of the wall, to find the area.
+2. Read the actual tile size from the box or product page.
+3. Add a waste allowance for cuts and breakage. Diagonal and herringbone layouts need more than a straight layout.
+4. Divide the total by the number of tiles in a box and round up to whole boxes.
+
+## Common mistakes
+- Ordering the exact area with no allowance for cuts.
+- Using every tile. Keep a few spares for future repairs, because the same shade may be hard to find later.
+- Mixing boxes with different batch or shade codes.
 
 ## Worked examples
 ### Example 1

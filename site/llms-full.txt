@@ -1,40 +1,59 @@
 # How many tiles do I need?
 
-> Calculate rectangular floor area, add a visible waste allowance and round to whole tiles and boxes. See how carton rounding changes the purchase quantity.
+> Calculate floor or wall tile quantities with a visible layout waste allowance and round up to full supplier cartons so you see exact tile counts and total boxes to order.
 
 ## Calculator
-- [Open the calculator](https://howmanytilesdoineed.com/): A 4 × 3 m room with 30 × 30 cm tiles and 10% waste needs 147 tiles. Ten-tile boxes require 15 boxes, supplying 150 tiles.
+- [Open the calculator](https://howmanytilesdoineed.com/): US floor: a 12 × 10 ft room (120 sq ft) with 12 × 12 in tiles and 10% waste needs 132 tiles, or 14 ten-tile boxes (140 tiles). Metric: a 4 × 3 m room (12 m²) with 30 × 30 cm tiles and 10% waste needs 147 tiles, or 15 ten-tile boxes (150 tiles).
 
 ## Guide
-- [How to work out how many tiles you need](https://howmanytilesdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many tiles you need](https://howmanytilesdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Divide room length times width by tile length times width, with all areas expressed in the same units. Multiply by one plus your waste percentage and round up to whole tiles. Divide by tiles per carton and round up again to whole cartons.
+## Formula and method
+Tiles needed = ceiling((room area / single tile area) × (1 + waste / 100)); Boxes = ceiling(tiles needed / tiles per box); Purchased tiles = boxes × tiles per box.
+
+Convert room dimensions and tile dimensions into matching area units, divide room area by single-tile area, multiply by one plus your layout waste percentage, and round up to whole tiles. Divide by pieces per carton and round up again to full boxes.
 
 ## Limits
-This is an area estimate, not a tile cutting layout. Diagonal patterns, grout joints, broken tiles, niches and small edge cuts affect waste. Choose the allowance for your layout and confirm carton coverage and tile dimensions with the supplier.
+This is an area-plus-waste model, not a cut-by-cut layout drawing. Grout joint width, L-shaped niches, diagonal or herringbone perimeter triangles, and large-format tile breakage increase waste. Confirm exact square footage per box and match batch/caliber codes before installing.
 
 ## Supporting pages
 - [Method and assumptions](https://howmanytilesdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmanytilesdoineed.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Wikipedia: Tile materials and sizing](https://en.wikipedia.org/wiki/Tile)
+- [Wikipedia: Porcelain tile characteristics](https://en.wikipedia.org/wiki/Porcelain_tile)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
+
+## Tile layout waste allowances and common tile coverage
+
+Choose a higher waste percentage whenever tiles are laid on an angle, around fixtures, or in narrow alcoves.
+
+| Layout pattern or tile size | Recommended waste | Coverage per tile | Notes |
+| --- | --- | --- | --- |
+| Straight / stacked grid | 10% | — | Lowest cut waste; keep 5–10% intact spares |
+| Brick / running bond (offset) | 10%–12% | — | Half-tile edge cuts every other row |
+| Diagonal (45-degree) | 15% | — | Triangular cuts along every perimeter wall |
+| Herringbone / chevron | 15%–20% | — | High edge waste and precision angle cuts |
+| 3 × 6 in subway tile | 12%–15% | 0.125 sq ft (8 / sq ft) | Common kitchen/shower wall format |
+| 12 × 12 in (30 × 30 cm) | 10%–12% | 1.0 sq ft (0.09 m²) | Standard bathroom & utility floor |
+| 12 × 24 in (30 × 60 cm) | 10%–15% | 2.0 sq ft (0.18 m²) | Verify 1/3 offset limit for large-format tiles |
 
 ## Step by step
-1. Measure the length and width of the floor, or the width and height of the wall, to find the area.
-2. Read the actual tile size from the box or product page.
-3. Add a waste allowance for cuts and breakage. Diagonal and herringbone layouts need more than a straight layout.
-4. Divide the total by the number of tiles in a box and round up to whole boxes.
+1. Measure the length and width of the floor (or wall width and height). Break L-shaped rooms into rectangles and add their areas.
+2. Check the actual nominal and work size of one tile on the carton specification—for instance, a "12 × 12 in" tile may be slightly smaller to allow grout joints.
+3. Choose a waste allowance matching your layout: 10% for straight grid layouts, 12% to 15% for brick or diagonal, and 15% to 20% for herringbone or complex cuts.
+4. Enter how many whole tiles come in one carton so the final order rounds up to full boxes.
 
 ## Common mistakes
-- Ordering the exact area with no allowance for cuts.
-- Using every tile. Keep a few spares for future repairs, because the same shade may be hard to find later.
-- Mixing boxes with different batch or shade codes.
+- Ordering exact net floor area with zero waste. Even simple rectangular rooms lose tiles to perimeter edge cuts and accidental breakage.
+- Using 10% waste on a diagonal or herringbone layout, which creates triangular cuts along every single wall.
+- Using every last tile during installation and keeping no spares—matching the exact shade and caliber years later is often impossible.
+- Mixing cartons with different dye-lot (tonality) or caliber codes on the same floor or wall.
 
 ## Worked examples
 ### Example 1
-A 4 × 3 m room with 30 × 30 cm tiles and 10% waste needs 147 tiles. Ten-tile boxes require 15 boxes, supplying 150 tiles.
+Metric: a 4 × 3 m room (12 m²) with 30 × 30 cm tiles and 10% waste needs 147 tiles, or 15 ten-tile boxes (150 tiles).
 
 ### Example 2
-A 3 × 3 m floor with no waste allowance needs 100 tiles, or 10 boxes of 10.
+US floor: a 12 × 10 ft room (120 sq ft) with 12 × 12 in tiles and 10% waste needs 132 tiles, or 14 ten-tile boxes (140 tiles).

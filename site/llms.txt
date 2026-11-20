@@ -1,22 +1,26 @@
 # How many tiles do I need?
 
-> Calculate rectangular floor area, add a visible waste allowance and round to whole tiles and boxes. See how carton rounding changes the purchase quantity.
+> Calculate floor or wall tile quantities with a visible layout waste allowance and round up to full supplier cartons so you see exact tile counts and total boxes to order.
 
 ## Calculator
-- [Open the calculator](https://howmanytilesdoineed.com/): A 4 × 3 m room with 30 × 30 cm tiles and 10% waste needs 147 tiles. Ten-tile boxes require 15 boxes, supplying 150 tiles.
+- [Open the calculator](https://howmanytilesdoineed.com/): US floor: a 12 × 10 ft room (120 sq ft) with 12 × 12 in tiles and 10% waste needs 132 tiles, or 14 ten-tile boxes (140 tiles). Metric: a 4 × 3 m room (12 m²) with 30 × 30 cm tiles and 10% waste needs 147 tiles, or 15 ten-tile boxes (150 tiles).
 
 ## Guide
-- [How to work out how many tiles you need](https://howmanytilesdoineed.com/guide/): step-by-step measuring, common mistakes, formula, limits and a worked example.
+- [How to work out how many tiles you need](https://howmanytilesdoineed.com/guide/): step-by-step measuring, common mistakes, and ordering checklist.
 
-## Method
-Divide room length times width by tile length times width, with all areas expressed in the same units. Multiply by one plus your waste percentage and round up to whole tiles. Divide by tiles per carton and round up again to whole cartons.
+## Formula and method
+Tiles needed = ceiling((room area / single tile area) × (1 + waste / 100)); Boxes = ceiling(tiles needed / tiles per box); Purchased tiles = boxes × tiles per box.
+
+Convert room dimensions and tile dimensions into matching area units, divide room area by single-tile area, multiply by one plus your layout waste percentage, and round up to whole tiles. Divide by pieces per carton and round up again to full boxes.
 
 ## Limits
-This is an area estimate, not a tile cutting layout. Diagonal patterns, grout joints, broken tiles, niches and small edge cuts affect waste. Choose the allowance for your layout and confirm carton coverage and tile dimensions with the supplier.
+This is an area-plus-waste model, not a cut-by-cut layout drawing. Grout joint width, L-shaped niches, diagonal or herringbone perimeter triangles, and large-format tile breakage increase waste. Confirm exact square footage per box and match batch/caliber codes before installing.
 
 ## Supporting pages
 - [Method and assumptions](https://howmanytilesdoineed.com/method/)
 - [About, editorial responsibility and privacy](https://howmanytilesdoineed.com/about/)
 
 ## Sources
-- [NIST: SI units and measurement](https://www.nist.gov/pml/owm/metric-si/si-units)
+- [Wikipedia: Tile materials and sizing](https://en.wikipedia.org/wiki/Tile)
+- [Wikipedia: Porcelain tile characteristics](https://en.wikipedia.org/wiki/Porcelain_tile)
+- [NIST: US customary to metric unit conversions](https://www.nist.gov/pml/owm/metric-si/unit-conversion/approximate-conversions-us-customary-measures-metric)
